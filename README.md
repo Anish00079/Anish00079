@@ -1,5 +1,3 @@
-
-<!--
 # 💫 About Me:
 🔭 I’m currently working on<br><br>UI/UX design projects<br><br>Graphic design works<br><br>Personal projects like Nepali Quiz Challenge<br><br>👯 I’m looking to collaborate on<br><br>UI/UX design projects<br><br>Creative graphic design ideas<br><br>Open-source or student tech projects<br><br>🤝 I’m looking for help with<br><br>Improving UI/UX case studies<br><br>Building real-world design portfolios<br><br>Product design & user research<br><br>🌱 I’m currently learning<br><br>Advanced UI/UX principles<br><br>Design systems & prototyping<br><br>Frontend basics to support design<br><br>💬 Ask me about<br><br>UI/UX design<br><br>Graphic design<br><br>GitHub profile design & portfolios<br><br>⚡ Fun fact<br><br>I love turning simple ideas into clean, user-friendly designs ✨
 
@@ -20,5 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Anish00079&icon=5&color=12)](https://visitcount.itsvg.in)
 
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
