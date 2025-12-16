@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 # 💫 About Me:
@@ -21,6 +20,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Anish00079&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**Anish00079/Anish00079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
