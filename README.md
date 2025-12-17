@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>-UI/UX design projects<br><br>-Graphic design works<br><br>-Personal projects like Nepali Quiz Challenge<br><br>🤝 I’m looking for help with<br><br>-Improving UI/UX case studies<br><br>-Building real-world design portfolios<br><br>-Product design & user research<br><br>🌱 I’m currently learning<br><br>-Advanced UI/UX principles<br><br>-Design systems & prototyping<br><br>-Frontend basics to support design<br><br>💬 Ask me about<br><br>-UI/UX design<br><br>-Graphic design<br><br>-GitHub profile design & portfolios<br><br>⚡ Fun fact<br><br>-I love turning simple ideas into clean, user-friendly designs ✨
+🔭 I’m currently working on<br><br>-UI/UX design projects<br><br>-Graphic design works<br><br>-Personal projects like Loot Portal <br><br>🤝 I’m looking for help with<br><br>-Improving UI/UX case studies<br><br>-Building real-world design portfolios<br><br>-Product design & user research<br><br>🌱 I’m currently learning<br><br>-Advanced UI/UX principles<br><br>-Design systems & prototyping<br><br>-Frontend basics to support design<br><br>💬 Ask me about<br><br>-UI/UX design<br><br>-Graphic design<br><br>-GitHub profile design & portfolios<br><br>⚡ Fun fact<br><br>-I love turning simple ideas into clean, user-friendly designs ✨
 
 
 ## 🌐 Socials:
