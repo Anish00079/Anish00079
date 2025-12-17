@@ -11,8 +11,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anish00079&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anish00079&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish00079&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![snake gif](https://github.com/Anish00079/Anish00079/blob/output/github-snake-dark.svg)
-### ✍️ Random Dev Quote
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish00079/Anish00079/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish00079/Anish00079/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anish00079/Anish00079/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+ ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
